@@ -1,16 +1,19 @@
-## Hi there 👋
+<picture>
+  <img src="metrics/header.svg" alt="Christian Schlotter">
+</picture>
 
-<!--
-**chrischdi/chrischdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Staff Software Engineer at [Broadcom][broadcom].
+- 🔭 [Cluster API][cluster-api] and [Cluster API provider vSphere][cluster-api-provider-vsphere] Maintainer.
+- 🚢 Emeritus [Cluster API provider Openstack][cluster-api-provider-openstack] Maintainer.
+- 💬 Ask me about [Kubernetes][kubernetes], Kubeadm, Go, DevOps and Open Source.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Always good for a meme.
+- 📫 Reach out to me on [Bluesky][bluesky] or [LinkedIn][linkedin].
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[broadcom]: //broadcom.com
+[kubernetes]: //kubernetes.io
+[cluster-api]: //github.com/kubernetes-sigs/cluster-api
+[cluster-api-provider-vsphere]: //github.com/kubernetes-sigs/cluster-api-provider-vsphere
+[cluster-api-provider-openstack]: //github.com/kubernetes-sigs/cluster-api-provider-openstack
+[linkedin]: //www.linkedin.com/in/christian-schlotter/
+[bluesky]: //bsky.app/profile/chrischdi.cschlotter.de
